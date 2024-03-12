@@ -58,11 +58,10 @@ Containerized applications serve as foundational elements in modern edge computi
 - Utilize a readable flow to ensure good grasping of the audience.
 
 ## Writing Style
-- Adhere to the principles of clarity, conciseness, and precision in writing.
+- Adhere to the general Technical Writing principles of clarity, conciseness, and precision.
 - Use simple and accessible language to ensure readability for both technical and non-technical audiences.
 
-## Revision and Iteration
-- Review and refine the draft iteratively to ensure accuracy, relevance, and completeness of content.
-- Seek feedback from peers or subject matter experts to validate the accuracy and effectiveness of the article.
+## Revision
+- Review and refine the draft to ensure accuracy, relevance, and completeness of content.
 
 ![Examples of Container-Image](https://insights.sei.cmu.edu/media/images/Containerization_fig_1.original.png)
