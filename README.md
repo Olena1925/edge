@@ -65,5 +65,4 @@ Containerized applications serve as foundational elements in modern edge computi
 - Review and refine the draft iteratively to ensure accuracy, relevance, and completeness of content.
 - Seek feedback from peers or subject matter experts to validate the accuracy and effectiveness of the article.
 
-![Examples of Container-Image]([URL](https://insights.sei.cmu.edu/media/images/Containerization_fig_1.original.png)https://insights.sei.cmu.edu/media/images/Containerization_fig_1.original.png)
-
+![Examples of Container-Image](https://insights.sei.cmu.edu/media/images/Containerization_fig_1.original.png)
