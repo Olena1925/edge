@@ -63,5 +63,3 @@ Containerized applications serve as foundational elements in modern edge computi
 
 ## Revision
 - Review and refine the draft to ensure accuracy, relevance, and completeness of content.
-
-![Examples of Container-Image](https://insights.sei.cmu.edu/media/images/Containerization_fig_1.original.png)
